@@ -1,6 +1,7 @@
 body {
   background-color: #9370DB;
   color: white;
+  margin: auto;
 }
 #hyp-table { width: 800px;
 }
